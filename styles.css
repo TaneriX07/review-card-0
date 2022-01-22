@@ -54,12 +54,16 @@ main {
   margin-bottom: 1rem;
 }
 
+.container {
+  width: 80vw;
+}
+
 .review {
   background: var(--baby-powder);
   display: grid;
   place-items: center;
   gap: 5px;
-  width: 60%;
+  width: 50%;
   margin: 0 auto;
   padding: 2rem;
   box-shadow: var(--light-shadow);
